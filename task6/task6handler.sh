@@ -3,7 +3,6 @@
 operator="+"
 res=1
 
-echo $$ > pid
 
 usr1()
 {
